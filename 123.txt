@@ -1,0 +1,12 @@
+substitution:
+	substitution mutation is a kind of point mutation where a single nitrogen base is substituted for another in a codon. it may or may not affect the amino acid or protein. it only affects a single codon.
+	the effect of substitution depends upon where it occurs and what it causes at that point. it has the least affect when compared to other mutations because it changes only one amino acid or it may change no amino acid. example: sickle cell anaemia.
+sickle cell anaemia: only one amino acid change in haemoglobin.
+it causes RBC to form in different shapes. 
+insertion:
+	in this mutation a nitrogenous base is added to the sequence. it causes the triplet frames to shift. it always affects the protein. it may have huge effects.
+Huntington’s Diseases: Causes Involuntary movement and loss of motor control. they eventually have memory loss and dementia.
+deletion:
+ 	in this mutation a nitrogenous base is removed from the sequence. it causes the triplet frames to shift backwards. it also affects the protein. it may also have huge effects.
+insertion and Deletion mutations have most effect on an organism because they affect many amino acids and consequently the whole protein.
+
